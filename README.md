@@ -7,7 +7,7 @@ I have found ideas for these projects from the internet. The skills used in thes
 positions that are related to: software engineering, data analytics, big data developer, database manager, financial analyst etc. 
 
 I think projects on your own show interest in the topic at hand and interest to learn more about code/tech that is upcoming.
-In a world where tech evolves very fast, it is important to stay on top of your game and continally evolve with the technology. 
+In a world where tech evolves very fast, it is important to stay on top of your game and continually evolve with the technology. 
 
 I have another stock related project in the works, but due to sensitive information I have withhold that project for now. Until I finish, 
 it will not be uploaded. 
