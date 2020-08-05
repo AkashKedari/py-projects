@@ -12,27 +12,27 @@ In a world where tech evolves very fast, it is important to stay on top of your 
 I have another stock related project in the works, but due to sensitive information I have withhold that project for now. Until I finish, 
 it will not be uploaded. 
 
-###Finance Analytics: 
+### Finance Analytics: 
 
 Contains projects that have to deal with financial analytics such as stock price analytics and predictive analytics. 
 Another project contains sentiment analysis of finance articles for given tickers. 
 TSLA.csv is used in this folder. 
 
-###Twitter Streaming and Analytics: 
+### Twitter Streaming and Analytics: 
 
 Twitter scraper bot that collects data based off 3 user inputed keys. 
 Twitter analytics bot that displayes how many times each keyword was displayed and in which country was the keyword the most popular. 
 
-###Weaher App: 
+### Weather App: 
 
 This contains the code for a weather application that uses real time data to show the current weather in a users area.
 The user will input the zip code and weather for taht area will be displayed. 
 
-###Linear Regression: 
+### Linear Regression: 
 
 This is code for a simple linear regression model. 
 
-###COVID_data_map: 
+### COVID_data_map: 
 
 This project takes in current covid data from the Johns Hopkins Github repository. Then, using this data, I followed a tutorial 
 that showed me how to visualize this data as a graph that shades in areas that have the most covid cases active over time. In simpler 
