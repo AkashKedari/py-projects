@@ -30,7 +30,7 @@ The user will input the zip code and weather for taht area will be displayed.
 
 ### Linear Regression: 
 
-This is code for a simple linear regression model. 
+This is code for a simple linear regression model. There is already stock data inside, and using matplotlib, I have created a GUI where user can enter interest rate and unemployment rate to get the predicted stock price. 
 
 ### COVID_data_map: 
 
