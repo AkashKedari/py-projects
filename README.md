@@ -39,6 +39,10 @@ that showed me how to visualize this data as a graph that shades in areas that h
 words, it is a dynamic world map that shades in countries that have the most covid cases. For example, US is the darkest shade because 
 the US has the most cases. 
 
+### Lyrics Bot
+
+This project is a bot that sends imessages of a lyrics.txt file to someone. I took the idea from TikTok trends of people spamming their friends with lyrics from a song or the full script of the bee movie by using this python code. 
+
 
 
 
