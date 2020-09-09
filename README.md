@@ -43,7 +43,7 @@ the US has the most cases.
 
 This project is a bot that sends imessages of a lyrics.txt file to someone. I took the idea from TikTok trends of people spamming their friends with lyrics from a song or the full script of the bee movie by using this python code.
 
-### Roll The Dice 
+### Roll The Dice:
 
 Simple GUI using tkinter that rolls the dice for you. Exploring more into front-end development. 
 
