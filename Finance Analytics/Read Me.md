@@ -23,4 +23,4 @@ This program takes in stock information using the yfinance API. Then, it calcula
 
 Next, it calculates the price targets for which a person should sell their stock. Target1R, Target2R, and Target3R are the calculations of these price targets. 
 
-Then, it wil lcalculate the percentages from each sma/ema and output if the percent change is greater than the max stop loss percent. If it is, the display will show True, else it will show False. 
+Then, it will calculate the percentages from each sma/ema. If the change in percentage is greaater than the max stop loss, the display will show True, else it will show False. 
