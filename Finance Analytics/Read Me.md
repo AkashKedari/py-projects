@@ -17,7 +17,7 @@ for any give day is good or bad is this sentiment analysis program. All values w
 overall and negative numbers means bad news overall. Sentiment analysis is done using Vader Polarity Scores and articles are scraped using 
 Beautiful Soup 4 and the website finviz.com. 
 
-# Risk Management Calculator 
+# Risk Management Calculator:
 
 This program takes in stock information using the yfinance API. Then, it calculates the Simple movinig averages for 50 days, and 200 days. It also calculates the Exponential moving average for 21 days. 
 
