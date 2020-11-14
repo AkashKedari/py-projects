@@ -47,6 +47,10 @@ This project is a bot that sends imessages of a lyrics.txt file to someone. I to
 
 Simple GUI using tkinter that rolls the dice for you. Exploring more into front-end development. 
 
+### Object-Oriented Programming
+
+Collection of assigmnets from the class OOP. Only the project is up.
+
 
 
 
